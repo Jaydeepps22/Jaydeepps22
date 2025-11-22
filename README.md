@@ -54,7 +54,7 @@
 
 ### 📫 Connect With Me  
 - **📧 Email:** trivedijaydeep1101@gmail.com  
-- **🔗 LinkedIn:** linkedin.com/in/jaydeep-trivedi-a65389294  
+- **🔗 LinkedIn:** www.linkedin.com/in/jaydeep-trivedii 
 - **💼 GitHub:** github.com/Jaydeepps22  
 
 ---
