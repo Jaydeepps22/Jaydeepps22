@@ -29,6 +29,9 @@
 ---
 
 ### 🧩 Projects  
+- **SPI Protocol Communication**
+  - Developed SPI Master-Slave Communication Protocol using Verilog.
+  - Simulated and Verified data transfer between Master and Slave using Modelsim.
 
 - **Smart Parking System (Arduino Hardware-Based)**  
   - Developed a 4-slot prototype using Arduino + IR sensors  
@@ -45,6 +48,7 @@
 ---
 
 ### 📌 Pinned Work  
+- `SPI-Protocol`
 - `16-bit-Barrel-Shifter-OpenLane`  
 - `Smart-Parking-Arduino`    
 - `OpenLane-VLSI-Projects`  
