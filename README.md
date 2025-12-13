@@ -48,12 +48,8 @@
 ---
 
 ### 📌 Pinned Work  
-- `SPI-Protocol`
-- `16-bit-Barrel-Shifter-OpenLane`  
-- `Smart-Parking-Arduino`    
-- `OpenLane-VLSI-Projects`  
-- `DSCH4-Microwind-Projects`
-
+- `VLSI-Projects`
+- 
 ---
 
 ### 📫 Connect With Me  
