@@ -48,7 +48,7 @@
 ---
 
 ### 📌 Pinned Work  
-- `VLSI-Projects`
+- `VLSI_Projects`
 ---
 
 ### 📫 Connect With Me  
