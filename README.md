@@ -1,69 +1,16 @@
-<h1 align="center">Hi, I'm Jaydeep Trivedi 👋</h1>
+## Hi, I'm Jaydeep 👋
 
-<h3 align="center">Electronics & Communication Engineering | VLSI & Embedded Systems</h3>
+🎓 Electronics and Communication Engineering student  
+🔧 Aspiring Embedded Systems Engineer  
 
----
+### 🔹 What I work on
+- Arduino-based embedded systems
+- Embedded C programming
+- Sensor interfacing and control logic
+- Proteus simulation
 
-### 👨‍🎓 About Me  
-- Undergraduate student at **Dr. S. & S. S. Ghandhy Government Engineering College**, GTU  
-- Passionate about **VLSI Design, RTL Design, and Digital Electronics**  
-- Hands-on experience with **OpenLane, OpenROAD, Yosys, Verilog HDL, and SystemVerilog**  
-- Built multiple hardware systems using Arduino and HDL-based digital designs  
-- Interned at **SVNIT Surat (VLSI Physical Design)** and **Indo German Tool Room (Microwind + DSCH4)**  
+### 🔹 Background
+I also have a strong foundation in digital electronics and hardware,
+which helps me understand embedded systems at a deeper level.
 
----
-
-### 🛠️ Technical Skills  
-- **Hardware Description Languages:** Verilog HDL, SystemVerilog  
-- **RTL Design & Digital Design**  
-- **Programming:** C, Python  
-
----
-
-### 🔧 Tools & Software  
-- **VLSI / EDA Tools:** OpenLane, OpenROAD, Yosys, Microwind, DSCH4  
-- **Simulation Tools:** ModelSim, Icarus Verilog, GTKWave  
-- **FPGA Tools:** Xilinx Vivado  
-- **Editors & IDEs:** VS Code, Arduino IDE  
-
----
-
-### 🧩 Projects  
-- **SPI Protocol Communication**
-  - Developed SPI Master-Slave Communication Protocol using Verilog.
-  - Simulated and Verified data transfer between Master and Slave using Modelsim.
-
-- **Smart Parking System (Arduino Hardware-Based)**  
-  - Developed a 4-slot prototype using Arduino + IR sensors  
-  - Real-time detection of slot availability  
-  - LED indicators for vacant/occupied slots  
-
-- **16-bit Barrel Shifter (VLSI – OpenLane)**  
-  - Implemented, synthesized and layout generated through **OpenLane**
-  - Verified using **Icarus Verilog + GTKWave**    
-
-- **Microwind + DSCH4 CMOS Designs**  
-  - Implementations of inverters, full adders, counters, and basic CMOS logic
-
----
-
-### 📌 Pinned Work  
-- `VLSI_Projects`
----
-
-### 📫 Connect With Me  
-- **📧 Email:** trivedijaydeep1101@gmail.com  
-- **🔗 LinkedIn:** www.linkedin.com/in/jaydeep-trivedii 
-- **💼 GitHub:** https://github.com/Jaydeepps22 
-
----
-
-### 📈 Current Focus  
-- Strengthening **RTL Design & SystemVerilog**  
-- Practising **Vivado, ModelSim, and ASIC flow tools**  
-- Preparing for **VLSI, RTL, Verification, Embedded Systems** roles  
-
----
-
-### ⭐ About This Profile  
-> Building strong fundamentals in VLSI, RTL design, and embedded hardware through practical projects and open-source tools.
+📍 Actively looking for embedded internships and entry-level roles.
