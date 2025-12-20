@@ -1,16 +1,26 @@
-## Hi, I'm Jaydeep 👋
+## 👋 Hi, I'm Jaydeep Trivedi
 
-🎓 Electronics and Communication Engineering student  
-🔧 Aspiring Embedded Systems Engineer  
+I am a final-year Electronics and Communication Engineering student with a strong interest in **Digital VLSI Design, RTL Development, and Functional Verification**.
 
-### 🔹 What I work on
-- Arduino-based embedded systems
-- Embedded C programming
-- Sensor interfacing and control logic
-- Proteus simulation
+### 🔧 Technical Focus
+- RTL Design using **Verilog HDL**
+- Functional Verification with self-written testbenches
+- Digital Datapath Blocks (ALU, Adders, Shifters, Multipliers)
+- RTL-to-GDSII flow using open-source EDA tools
 
-### 🔹 Background
-I also have a strong foundation in digital electronics and hardware,
-which helps me understand embedded systems at a deeper level.
+### 🛠 Tools & Technologies
+- **Languages:** Verilog HDL, C, Python  
+- **EDA Tools:** ModelSim, Icarus Verilog, GTKWave  
+- **Physical Design:** OpenLane, OpenROAD, Yosys  
+- **Environment:** Linux (Ubuntu), Git  
 
-📍 Actively looking for embedded internships and entry-level roles.
+### 📂 Highlighted Work
+- Designed and verified **30+ RTL combinational datapath blocks**
+- Implemented ALUs, adders (RCA, CLA, CSA), barrel shifters, and multipliers
+- Completed **RTL-to-GDSII flow** for digital blocks during academic internships
+
+### 🎯 Career Objective
+Aspiring to work in **RTL Design / Verification** and grow in the field of **Digital IC and SoC Design**.
+
+📫 Reach me at: trivedijaydeep1101@gmail.com  
+🔗 LinkedIn: www.linkedin.com/in/jaydeep-trivedii
